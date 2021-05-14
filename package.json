@@ -1,0 +1,19 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "app to sell ebook",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "hjs": "0.0.6",
+    "hogan-middleware": "^0.2.2",
+    "stripe": "^6.28.0"
+  }
+}
